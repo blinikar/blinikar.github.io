@@ -1,4 +1,4 @@
-let USEDate = new Date(2021, 4, 25, 9, 0);
+let USEDate = new Date(2021, 6, 6, 9, 0);
 let USESeconds = USEDate.getTime()
 
 function showTimer(){
